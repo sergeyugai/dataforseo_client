@@ -1,6 +1,6 @@
 {
-    "name": "jovixv/dataforseo_client",
-    "description": "A PHP wrapper for using DataForSEO API",
+    "name": "sergeyugai/dataforseo_client",
+    "description": "A PHP wrapper for using DataForSEO API; fork of jovixv/dataforseo_client",
     "keywords": [
         "dataforseo", "api", "seo", "dataforseo client", "seo tools", "client for dataforseo", "php wrapper dataforseo", "dataforseo api", "DFS API", "api seo", "seo api php", "google search volume php"
     ],
@@ -17,7 +17,7 @@
     "minimum-stability": "alpha",
     "require": {
         "guzzlehttp/guzzle": "^6.3",
-        "symfony/var-dumper": "^4.1",
+        "symfony/var-dumper": "^5.1",
         "php" : "^7.1"
     },
 
